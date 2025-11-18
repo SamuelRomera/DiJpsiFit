@@ -1,5 +1,5 @@
 
-####### This script minimize the chi2 with iMinuit for a range of lambda in the modified chi2 definition by the curvature penalty.
+####### This script minimizes the chi2 with iMinuit for a range of lambda in the modified chi2 definition by the curvature penalty.
 ####### The output is a table with the values of lambda, the fitted parameter, the chi2, and the corresponding penalty term.
 
 
